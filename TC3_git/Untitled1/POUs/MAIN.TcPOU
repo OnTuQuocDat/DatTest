@@ -10,7 +10,9 @@ END_VAR
 
 //Two
 
-//Three]]></ST>
+//Three
+
+//Four]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
@@ -18,6 +20,8 @@ END_VAR
       <LineId Id="6" Count="0" />
       <LineId Id="9" Count="0" />
       <LineId Id="8" Count="0" />
+      <LineId Id="11" Count="0" />
+      <LineId Id="10" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
